@@ -1,6 +1,6 @@
 # 🌤 Weather App
 
-![Weather App](assets/weather-app-screenshot.png)
+![Weather App](assets/weather-app-screenshot.jpg)
 
 ## 🌟 Overview
 This Weather App is a simple and interactive web application that allows users to check real-time weather updates by entering a city name. It fetches weather data from an API and displays temperature, humidity, and weather conditions in a visually appealing format.
