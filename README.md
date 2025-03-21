@@ -1,4 +1,4 @@
- 🌤 Weather App
+ # 🌤 Weather App
 
  ![Weather App](assets/weather-app.jpg.png)
 
